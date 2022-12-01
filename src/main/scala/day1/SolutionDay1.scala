@@ -1,7 +1,5 @@
 package day1
 
-import jdk.xml.internal.SecuritySupport.getClassLoader
-
 import scala.io.Source
 
 object SolutionDay1 extends App {
