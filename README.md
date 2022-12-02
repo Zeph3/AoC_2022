@@ -4,10 +4,10 @@ Progress:
 
 # Scala:
 
-| day | part 1  | part 2 |
-|-----|---------|--------|
-| 1   | done    | done   |
-| 2   | started |        |
+| day | part 1 | part 2 |
+|-----|--------|--------|
+| 1   | done   | done   |
+| 2   | done   | done   |
 
 
 # Python:
