@@ -3,7 +3,7 @@ import file_reader
 
 
 def main():
-    raw_data = file_reader.read_file_and_split("../../source/day1/calories_list", os.linesep * 2)
+    raw_data = file_reader.read_file_and_split("../source/day1/calories_list", os.linesep * 2)
     cleaned_transformed_data = transform_to_arr(raw_data)
     print_result(cleaned_transformed_data)
 

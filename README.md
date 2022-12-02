@@ -12,6 +12,8 @@ Progress:
 
 # Python:
 
-| day | part 1 | part 2 |
-|-----|--------|--------|
-| 1   | done   | done   |
+| day | part 1 | part 2  |
+|-----|--------|---------|
+| 1   | done   | done    |
+| 2   | done   | started |
+
