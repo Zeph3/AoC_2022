@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a6522b1-ddda-4488-97f5-907001b77db0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/python.day1/Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/python/day1/file_reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/python/day1/solution_day1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/util/FileUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/source/day2/instruction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/source/day2/rock_paper_scissor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/AoC_2022.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/AoC_2022.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/day1/SolutionDay1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/day1/SolutionDay1.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/python.day1/Solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/day1/SolutionDay1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/adventofcode/day1/SolutionDay1.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +44,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Scala Object" />
         <option value="Python Script" />
       </list>
     </option>
@@ -60,13 +68,21 @@
   "keyToString": {
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/rq91gw/local/Evil_lab/adventofcode/AoC_2022",
+    "last_opened_file_path": "/Users/rq91gw/local/Evil_lab/adventofcode/AoC_2022/src/main/source",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/source" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/python/day1" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="SolutionDay1" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="day1.SolutionDay1" />
@@ -81,8 +97,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="adventofcode.day1.SolutionDay1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="adventofcode.day1.SolutionDay1" />
+      <module name="AoC_2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="adventofcode.day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.adventofcode.day1.SolutionDay1" />
         <item itemvalue="Application.SolutionDay1" />
       </list>
     </recent_temporary>
@@ -102,5 +132,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AoC_2022$solution_day1.coverage" NAME="solution_day1 Coverage Results" MODIFIED="1669966957805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/python/day1" />
+    <SUITE FILE_PATH="coverage/AoC_2022$Solution.coverage" NAME="Solution Coverage Results" MODIFIED="1669965362190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/python/day1" />
   </component>
 </project>
