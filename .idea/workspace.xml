@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39663138-b1a2-4a23-91d7-88b77ecb9306" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/adventofcode/day3/SolutionDay3.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/source/day3/instruction" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/source/day3/rucksack_content" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/AoC_2022.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/AoC_2022.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/adventofcode/day4/SolutionDay4.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/source/day4/cleanup_sections" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/source/day4/instruction" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/util/FileUtil.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/util/FileUtil.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,16 +37,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "project.structure.last.edited": "Global Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="DjangoTestsConfigurationType">
       <module name="aoc_2022_5749" />
@@ -155,6 +151,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670101000609</updated>
       <workItem from="1670101004885" duration="1119000" />
+      <workItem from="1670168552866" duration="6382000" />
     </task>
     <servers />
   </component>
