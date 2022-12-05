@@ -1,6 +1,6 @@
-package adventofcode.day2
+package adventofcode
 
-import adventofcode.day2.SolutionDay2Data.{DRAW, LOSS, Paper, Rock, Scissor, Strat, WIN}
+import adventofcode.SolutionDay2Data._
 import util.FileUtil.readFileAndSplitBy
 
 object SolutionDay2 extends App {

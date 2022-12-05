@@ -1,6 +1,6 @@
-package adventofcode.day3
+package adventofcode
 
-import adventofcode.day3.SolutionDay3Data.Rucksack
+import adventofcode.SolutionDay3Data.Rucksack
 import util.FileUtil.readFileAndSplitBy
 
 object SolutionDay3 extends App {

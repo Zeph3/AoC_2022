@@ -1,4 +1,4 @@
-package adventofcode.day1
+package adventofcode
 
 import util.FileUtil.readFileAndSplitBy
 
