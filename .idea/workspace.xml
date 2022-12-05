@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39663138-b1a2-4a23-91d7-88b77ecb9306" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/adventofcode/SolutionDay5.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/source/day5/instruction" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/source/day5/storage_and_procedure" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/AoC_2022.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/AoC_2022.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/adventofcode/day1/SolutionDay1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/adventofcode/SolutionDay1.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/adventofcode/day2/SolutionDay2.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/adventofcode/SolutionDay2.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/adventofcode/day3/SolutionDay3.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/adventofcode/SolutionDay3.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/adventofcode/day4/SolutionDay4.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/adventofcode/SolutionDay4.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/adventofcode/SolutionDay5.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/adventofcode/SolutionDay5.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +40,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Global Libraries",
@@ -185,7 +180,7 @@
       <updated>1670101000609</updated>
       <workItem from="1670101004885" duration="1119000" />
       <workItem from="1670168552866" duration="7711000" />
-      <workItem from="1670231647566" duration="6439000" />
+      <workItem from="1670231647566" duration="14777000" />
     </task>
     <servers />
   </component>
