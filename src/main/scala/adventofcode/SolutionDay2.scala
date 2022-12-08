@@ -30,8 +30,8 @@ object SolutionDay2 extends App {
     matchResult + matchUp._2.value
   }
 
-  def toStrategyTuple(matchup: Array[String]): (Strat, Strat) = {
-    matchup match {
+  def toStrategyTuple(matchUp: Array[String]): (Strat, Strat) = {
+    matchUp match {
       case Array(x, y) => (toStrategy(x), toStrategy(y))
     }
   }
@@ -42,13 +42,6 @@ object SolutionDay2 extends App {
       case "B" | "Y" => Paper
       case "C" | "Z" => Scissor
     }
-  }
-
-  def toStrategyTupleV2(matchup: Array[String]): (Strat, Strat) = {
-    val opponent: Strat = toStrategy(matchup.head)
-    val strategy: Strat = toStrategyV2(opponent, matchup.tail.head)
-
-    (opponent, strategy)
   }
 
   def toStrategyV2(opponent: Strat, strategy: String): Strat = {
@@ -65,6 +58,13 @@ object SolutionDay2 extends App {
       case (Scissor, "Y") => Scissor
       case (Scissor, "Z") => Rock
     }
+  }
+
+  def toStrategyTupleV2(matchup: Array[String]): (Strat, Strat) = {
+    val opponent: Strat = toStrategy(matchup.head)
+    val strategy: Strat = toStrategyV2(opponent, matchup.tail.head)
+
+    (opponent, strategy)
   }
 }
 

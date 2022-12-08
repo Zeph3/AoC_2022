@@ -13,4 +13,9 @@ object FileUtil {
     }.get
   }
 
+  def readFileAndGetAsString(path: String): String = {
+
+    Using(Source.fromFile(path))(_.mkString).get
+  }
+
 }
