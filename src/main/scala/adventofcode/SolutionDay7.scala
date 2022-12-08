@@ -6,9 +6,6 @@ import scala.util.{Success, Try}
 
 object SolutionDay7 extends App {
 
-  val packageMarker = 4
-  val messageMarker = 14
-
   val fileInputRaw: List[String] = readFileAndSplitBy("src/main/source/day7/directories", "\n").toList
 
   val sizes = build(fileInputRaw)
