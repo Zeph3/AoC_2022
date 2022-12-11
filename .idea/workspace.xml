@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39663138-b1a2-4a23-91d7-88b77ecb9306" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/adventofcode/SolutionDay8.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/source/day8/example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/source/day8/forest_data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/adventofcode/SolutionDay10.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/adventofcode/SolutionDay9.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/source/day10/example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/source/day9/example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/source/day9/input" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/adventofcode/SolutionDay7.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/adventofcode/SolutionDay7.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "full.screen.before.presentation.mode": "true",
-    "last_opened_file_path": "/Users/rq91gw/local/Evil_lab/adventofcode/AoC_2022/src/main/source",
+    "last_opened_file_path": "/Users/rq91gw/local/Evil_lab/adventofcode/AoC_2022/src/main/scala/adventofcode",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Global Libraries",
     "project.structure.proportion": "0.0",
@@ -55,16 +56,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/scala/adventofcode" />
       <recent name="$PROJECT_DIR$/src/main/source" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/source/day9" />
       <recent name="$PROJECT_DIR$/src/main/source" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="adventofcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SolutionDay8">
+  <component name="RunManager">
     <configuration name="SolutionDay5" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="adventofcode.SolutionDay5" />
       <module name="AoC_2022" />
@@ -217,7 +220,8 @@
       <workItem from="1670168552866" duration="7711000" />
       <workItem from="1670231647566" duration="16131000" />
       <workItem from="1670339827298" duration="14755000" />
-      <workItem from="1670506696873" duration="20896000" />
+      <workItem from="1670506696873" duration="22483000" />
+      <workItem from="1670609673694" duration="9640000" />
     </task>
     <servers />
   </component>
