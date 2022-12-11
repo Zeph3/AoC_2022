@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39663138-b1a2-4a23-91d7-88b77ecb9306" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/adventofcode/SolutionDay10.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/adventofcode/SolutionDay9.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/source/day10/example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/source/day9/example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/source/day9/input" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/source/day10/input" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_10_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_10_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/AoC_2022-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/AoC_2022-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/AoC_2022.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/AoC_2022.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/adventofcode/SolutionDay10.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/adventofcode/SolutionDay10.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +47,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "full.screen.before.presentation.mode": "true",
-    "last_opened_file_path": "/Users/rq91gw/local/Evil_lab/adventofcode/AoC_2022/src/main/scala/adventofcode",
+    "last_opened_file_path": "C:/Users/torun/OneDrive/Bureaublad/ZS/Z/Personal projects/adventofcode/AoC_2022/src/main/source/day10",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Global Libraries",
     "project.structure.proportion": "0.0",
@@ -56,6 +57,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\torun\OneDrive\Bureaublad\ZS\Z\Personal projects\adventofcode\AoC_2022\src\main\source\day10" />
       <recent name="$PROJECT_DIR$/src/main/scala/adventofcode" />
       <recent name="$PROJECT_DIR$/src/main/source" />
     </key>
@@ -68,45 +70,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="SolutionDay5" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="adventofcode.SolutionDay5" />
-      <module name="AoC_2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="adventofcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SolutionDay6" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="adventofcode.SolutionDay6" />
-      <module name="AoC_2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="adventofcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SolutionDay8" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="adventofcode.SolutionDay8" />
-      <module name="AoC_2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="adventofcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType">
       <module name="aoc_2022_5749" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,19 +89,6 @@
       <option name="USE_OPTIONS" value="false" />
       <option name="OPTIONS" value="" />
       <method v="2" />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="aoc_2022_5749" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="aoc_2022_5749" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
       <module name="aoc_2022_5749" />
@@ -200,6 +150,58 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <method v="2" />
     </configuration>
+    <configuration name="SolutionDay5" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="adventofcode.SolutionDay5" />
+      <module name="AoC_2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="adventofcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionDay6" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="adventofcode.SolutionDay6" />
+      <module name="AoC_2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="adventofcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionDay8" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="adventofcode.SolutionDay8" />
+      <module name="AoC_2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="adventofcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="aoc_2022_5749" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="aoc_2022_5749" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.SolutionDay8" />
@@ -227,6 +229,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

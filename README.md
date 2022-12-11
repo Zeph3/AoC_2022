@@ -14,6 +14,9 @@ Progress:
 | 6   | done   | done   | No        |
 | 7   | done   | done   | Yes       | -> tree like struct
 | 8   | done   | done   | Yes       | -> grid
+| 9   | done   | done   | Yes       |
+| 10  | done   | doing  | No        | 
+| 11  | n/a    | n/a    | No        | 
 
 
 # Python:
